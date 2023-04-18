@@ -70,4 +70,6 @@ If you find this work or code is helpful, please consider citing our paper:
 
 ```
 [1] Xu Y, Wang Z, Li Z, et al. SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines. arXiv preprint arXiv:1911.06188, 2019.
+[2] L. Theis, I. Korshunova, A. Tejani, and F. Husz´ar, “Faster gaze prediction with dense networks and fisher pruning,” arXiv preprint arXiv:1801.05787, 2018.
+[3] L. Liu, S. Zhang, Z. Kuang, A. Zhou, J.-H. Xue, X. Wang, Y. Chen, W. Yang, Q. Liao, and W. Zhang, “Group fisher pruning for practical network compression,” in International Conference on Machine Learning. PMLR, 2021, pp. 7021–7032
 ```
