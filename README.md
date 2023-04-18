@@ -13,11 +13,11 @@ experiments on four UAV benchmarks, including UAV123@10fps,DTB70, UAVDT and Vist
 
 We compared the precision and speed of F-SiamFC++ tracker and the state-of-the-art DCF-based tracker on the UAVDT dataset, using a single CPU.
 
-![](C:\Users\Qianyu\Desktop\CPU.png)
+![](./image/CPU.png)
 
 We compared the precision and speed of F-SiamFC++ tracker and the state-of-the-art DL-based tracker on the UAVDT dataset, using a single GPU.
 
-![](C:\Users\Qianyu\Desktop\GPU.png)
+![](./image/GPU.png)
 
 ## Test
 
